@@ -1,2 +1,2 @@
-# chrome
-about chrome extensions
+# Google
+about Google's progects
